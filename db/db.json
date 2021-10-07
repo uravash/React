@@ -1,39 +1,40 @@
 {
-    "res": [
-        {
-            "id": 1,
-            "name": "Samosa",
-            "address":"indore",
-            "rating":"4.5",
-            "email":"samosa@gmail.com"
-        },
-        {
-            "id": 2,
-            "name": "Kachori",
-            "address":"bhopal",
-            "rating":"4.0",
-            "email":"kachori@gmail.com"
-        },
-        {
-            "id": 3,
-            "name": "Poha",
-            "address":"mumbai",
-            "rating":"3.5",
-            "email":"poha@gmail.com"
-        },
-        {
-            "id": 4,
-            "name": "Pizza",
-            "address":"gujrat",
-            "rating":"5.0",
-            "email":"pizza@gmail.com"
-        },
-        {
-            "id": 5,
-            "name": "Pasta",
-            "address":"dehli",
-            "rating":"4.9",
-            "email":"pasta@gmail.com"
-        }
-    ]
+  "res": [
+    {
+      "name": "Nacl Restaurant",
+      "email": "nacl@gmail.com",
+      "address": "Burhanpur",
+      "rating": "5",
+      "id": 5
+    },
+    {
+      "name": " Hitchky Restaurant ",
+      "email": "hitchky@gmail.com",
+      "address": "Puna",
+      "rating": "4",
+      "id": 1
+    },
+    {
+      "name": "Apna Sweets",
+      "email": "apnasweets@gmail.com",
+      "address": "Indore",
+      "rating": "4.5",
+      "id": 2
+    },
+    {
+      "name": "The Royal Dine Restaurant",
+      "email": "royal@gmail.com",
+      "address": "Mumbai",
+      "rating": "5",
+      "id": 3
+    },
+    {
+      "name": "Dyno Kitchen Restaurant",
+      "email": "dyno@gmail.com",
+      "address": "Bhopal",
+      "rating": "4",
+      "id": 4
+    }
+  
+  ]
 }
