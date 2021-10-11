@@ -1,0 +1,94 @@
+.logo{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%; 
+    overflow: hidden;
+    margin-top: -6px ;
+}
+.signup-btn{
+    background-color: black;
+     color: white;
+      border: 1px solid white;
+     border-radius: 5px ;
+     margin-left: 700px
+}
+.sidetext{
+    color: black;
+    margin-right: 240px
+}
+.sidetext1{
+    color: black;
+    margin-right: 300px
+}
+.sidetext2{
+    color: black;
+    margin-right: 270px
+
+}
+.sidetext3{
+    color: black;
+    margin-right: 300px
+
+}
+.sidetext4{
+    color: black;
+    margin-right: 270px
+
+}
+.sidetext5{
+    color: black;
+    margin-right: 300px
+
+}
+
+.ptag{
+    margin-top: 35px;
+     color:gray
+}
+.maindiv{
+    background-color:#f8fdff;
+    margin-top: -15px;
+}
+.divone{
+    display: flex;
+     justify-content: space-between;
+     
+}
+.divtwo{
+    margin-top:10px
+}
+
+.reponame{
+    color: blue
+}
+.btnone{
+    border-radius: 10px;
+    color:"gray"
+}
+.divv{
+    float: right;
+    margin-top:10px
+}
+.btnn{
+    border-radius: 5px;
+    margin-right: 5px
+}
+.divve{
+    margin-top: 35px
+}
+.sp{
+    margin-right: 20px;
+    color:gray
+}
+.spo{
+    margin-right: 25px ;
+    color:gray
+}
+.spt{
+    margin-right: 30px ;
+    color:gray  
+}
+.spp{
+    margin-right: 10px;
+    margin-left:90px
+}
