@@ -8,6 +8,20 @@ export const Addtodo =(data)=>{
         }
     }   
 }
+export const Deletetodo =(id)=>{
+  
+    return{
+        type:"Delete",
+        id
+    }   
+}
 
+export const Removetodo =(data)=>{
+  
+    return{
+        type:"Remove",
+        
+    }   
+}
 
 

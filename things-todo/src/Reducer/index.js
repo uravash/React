@@ -1,8 +1,8 @@
-import thingReducer from "./thingstodoreducer";
+import thingstodoReducer from "./thingstodoReducer";
 
-import {combineReducers} from 'redux'
+import { combineReducers } from 'redux'
 
-const thinglistReducer =combineReducers({
-    thingReducer
+const thinglistReducer = combineReducers({
+    thingstodoReducer
 })
 export default thinglistReducer;

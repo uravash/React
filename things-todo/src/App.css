@@ -1,0 +1,28 @@
+input.form-check-input:checked + label{
+    text-decoration: line-through;
+}
+.paper{
+    width: 60%;
+    justify-content: center;
+    margin-top: 30px;
+    margin: 0 auto
+}
+.main_div{
+    width: 85%;
+    margin: 0 auto;
+
+}
+.h3{
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 5px;
+    margin-top: 25px 
+}
+.icon_div{
+    margin: 0 auto;
+    padding: 12px;
+    background-color: #efdeaa6e;
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+}

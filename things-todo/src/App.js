@@ -1,5 +1,6 @@
 
 import Thingstodo from './component/Thingstodo';
+import "./App.css"
 
 function App() {
   return (
